@@ -1,0 +1,9 @@
+{
+    "suggest.floatConfig": {
+        "border": true,
+        "rounded": true,
+    }
+    "diagnostic.floatConfig": {
+        "border": false
+    }
+}
